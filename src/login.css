@@ -1,0 +1,128 @@
+@import url("https://fonts.googleapis.com/css2?family=BioRhyme&family=Caprasimo&family=Poppins:wght@600&family=Roboto+Condensed:ital@1&family=Roboto:wght@900&family=Rubik+Dirt&display=swap");
+
+.right {
+  width: 50%;
+  height: 100vh;
+  background-color: #1365e8;
+  clip-path: polygon(0% 0%, 100% 0%, 100% 0%, 80% 100%, 0% 100%, 0% 80%);
+  color: white;
+}
+.logo {
+  font-family: Poppins;
+  margin: 40px;
+}
+.heading {
+  font-family: Poppins;
+  margin-top: 200px;
+  margin-left: 210px;
+  font-size: 50px;
+}
+ul {
+  display: flex;
+  margin: auto;
+  margin-top: 200px;
+  margin-left: 150px;
+}
+.platformimg {
+  margin: 10px;
+  width: 42px;
+  height: 41px;
+  padding: 5px;
+}
+.left {
+  background-color: #f8faff;
+}
+
+.signup {
+  width: 400px;
+  height: 500px;
+  margin-top: 90px;
+  margin-left: 90px;
+}
+.signuphead {
+  font-family: Poppins;
+  font-size: 25px;
+  margin: 10px;
+}
+.signupdes {
+  font-family: Poppins;
+  font-size: 10px;
+  margin-top: 5px;
+  margin: 10px;
+}
+.links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.link {
+  display: flex;
+  align-items: center;
+  margin: 20px;
+  margin-top: 10px;
+  width: 50%;
+  background-color: #ffff;
+  border-radius: 10px;
+  height: 25px;
+}
+.link a {
+  font-size: 10px;
+}
+.linkimg {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+form {
+  padding: 15px 30px 5px 30px;
+  background-color: white;
+  border-radius: 20px;
+  height: 280px;
+  width: 370px;
+}
+label {
+  font-family: Poppins;
+  font-size: 11px;
+  margin-bottom: 10px;
+}
+.forminputs {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 300px;
+  height: 35px;
+  border-radius: 10px;
+  outline: 0;
+  background-color: #f5f5f5;
+  padding: 10px;
+}
+.forminputs:hover {
+  background-color: #eaeaea;
+}
+
+.forgot {
+  font-family: Poppins;
+  color: blue;
+  font-size: 11px;
+  margin-left: 10px;
+}
+.loginbtn {
+  width: 300px;
+  height: 35px;
+  background-color: #1365e8;
+  border-radius: 10px;
+  margin-top: 20px;
+  color: white;
+  padding: 2px;
+  font-family: Poppins;
+  font-size: 12px;
+}
+.registerlink {
+  text-align: center;
+  margin-top: 20px;
+  font-family: Poppins;
+  font-size: 13px;
+  font-weight: 100;
+}
+.registerlink a {
+  color: blue;
+}
